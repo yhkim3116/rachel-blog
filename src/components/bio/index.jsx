@@ -118,7 +118,7 @@ const bioQuery = graphql`
         social {
           twitter
           github
-          medium
+          instagram
           facebook
           linkedin
         }
