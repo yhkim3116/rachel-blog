@@ -2,14 +2,14 @@ module.exports = {
   title: `Rachel's Blog`,
   description: `Rachel's Blog`,
   author: `Rachel`,
-  introduction: `개발얘기나 맛집얘기나 일상얘기`,
+  introduction: `안녕하세요. 프론트엔드 개발자 Rachel입니다 :) \n이 블로그는 개발뿐만 아니라 맛집후기나 일상글도 모아두는 공간이에요😄`,
   siteUrl: `https://rachel-blog.netlify.app/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `yhkim3116`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
-    linkedin: ``, // Your LinkedIn account
+    linkedin: `yehyun-kim-b794531b0`, // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
@@ -21,7 +21,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: '',
+    buyMeACoffeeId: 'yhkim3116',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
