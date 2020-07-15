@@ -7,6 +7,15 @@ body.light {
     color: $dark-gray;
   }
 
+  .social-icon {
+    fill: #333;
+    transition: fill 0.6s ease;
+  }
+
+  .social-icon:hover {
+    fill: #7d7d7d;
+  }
+
   .bio {
     .author-name-content {
       background-color: $light-category-border-color;
