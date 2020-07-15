@@ -5,10 +5,10 @@ module.exports = {
   introduction: `안녕하세요. 프론트엔드 개발자 레이첼입니다☺️ \n이 블로그는 개발뿐만 아니라 맛집🍕 후기나 일상🧘‍♀️ 기록도 모아두는 공간이에요😄`,
   siteUrl: `https://rachel-blog.netlify.app/`, // Your blog site url
   social: {
-    twitter: ``, // Your Twitter account
+    twitter: `yhkim3116`, // Your Twitter account
     github: `yhkim3116`, // Your GitHub account
     instagram: `rachel_yh.kim`, // Your Instagram account
-    facebook: ``, // Your Facebook account
+    facebook: `yhkim3116`, // Your Facebook account
     linkedin: `yehyun-kim-b794531b0`, // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
