@@ -2,9 +2,11 @@
 title: 블로그시작 첫포스트
 date: 2020-07-13 14:07:15
 category: daily
-draft: false
 thumbnail: './images/gatsby-starter-bee.png'
+draft: false
 ---
+
+![](./images/gatsby-starter-bee.png)
 
 평소에 책도 안 읽고 글 읽는 것도 싫어하는데 어쩌다 블로그를 시작하게 되었어요.
 
